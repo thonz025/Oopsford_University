@@ -78,15 +78,14 @@ DB_NAME=course_management
 | DELETE | `/api/courses/{id}` | Delete a course           |
 
 ## 📜 License
-This project is licensed under the **MIT License**.
+This project is a requirement in .
 
 ## 👥 Contributors
-- **Your Name** – Developer
-- **Teammate Name** – Project Manager
+-Anthony Elcano
 
 ## 📞 Contact
-For questions or support, reach out to: `your.email@example.com`
+For questions or support, reach out to: anthonyelcano25@gmail.com
 
 ---
-✅ **Maintained by [Your Team/University]**
+✅ **Maintained by Oopsford University**
 
