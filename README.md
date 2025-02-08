@@ -78,7 +78,7 @@ DB_NAME=course_management
 | DELETE | `/api/courses/{id}` | Delete a course           |
 
 ## 📜 License
-This project is a requirement in .
+This project is a requirement in Soft-Dev course.
 
 ## 👥 Contributors
 -Anthony Elcano
